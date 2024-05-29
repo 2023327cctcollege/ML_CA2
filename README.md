@@ -26,15 +26,15 @@ ___
 
 ### Neural Networks
 
-In this section, a [**Neural Network (NN)**]() and a [**Linear Regression (LR)**]() models are trained and compared when applied to predicting the *Income(Thousands's)* column of the [BankRecords.csv](data/BankRecords.csv) dataset.
+In this section, a [**Neural Network (NN)**](models/nn_regressor.md) and a [**Linear Regression (LR)**](models/lr_regressor.md) models are trained and compared when applied to predicting the *Income(Thousands's)* column of the [BankRecords.csv](data/BankRecords.csv) dataset.
 
-[Go to solution]().
+[Go to solution](notebooks/MateusCampos_ML_CA2.ipynb#Neural-Networks).
 
 ### Semantic Analysis
 
-In this section, a [**Neural Network (NN)**]() model is trained for **Sentiment Analysis** on the [TweetCollection.csv](data/TweetCollection.csv) dataset. The original dataset was sourced by [Shrivastava (2021)](#(Shrivastava,-2021)) and is available under the filename *test.csv*. After being trained, the model is tested against another dataset of social media posts, the [SocialMediaCollection.csv]() dataset, originally sourced as *sentimentdataset.csv* by [Parmar (2023)](#(Parmar,-2023)).
+In this section, a [**Neural Network (NN)**](models/nn_sentiment.md) model is trained for **Sentiment Analysis** on the [TweetCollection.csv](data/TweetCollection.csv) dataset. The original dataset was sourced by [Shrivastava (2021)](#(Shrivastava,-2021)) and is available under the filename *test.csv*. After being trained, the model is tested against another dataset of social media posts, the [SocialMediaCollection.csv](data/SocialMediaCollection.csv) dataset, originally sourced as *sentimentdataset.csv* by [Parmar (2023)](#(Parmar,-2023)).
 
-[Go to solution]().
+[Go to solution](notebooks/MateusCampos_ML_CA2.ipynb#Semantic-Analysis).
 
 ### References
 
